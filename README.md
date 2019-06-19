@@ -1,4 +1,4 @@
-# k6-websocket
+# k6-performance-test-websocket
 Example of performance test for websocket with k6
 
 ## How run the tests:
